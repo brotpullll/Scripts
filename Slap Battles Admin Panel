@@ -1,4 +1,4 @@
-local allowedPlaceIds = {9015014224, 6403373529}
+dlocal allowedPlaceIds = {9015014224, 6403373529}
 
 local function isPlaceAllowed()
     for _, placeId in ipairs(allowedPlaceIds) do
